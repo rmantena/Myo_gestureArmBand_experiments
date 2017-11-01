@@ -1,3 +1,6 @@
+# Author : Rajiv Mantena
+# rmantena.github.io
+
 from myo import init, Hub, Feed
 from sklearn.tree import DecisionTreeClassifier
 import time
