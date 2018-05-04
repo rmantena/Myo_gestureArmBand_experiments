@@ -51,7 +51,7 @@ def tm3(array):
 def wl(array):
     sum = 0
     for a in range(0,len(array)-1):
-        sum =+ array[0+1] - array[0]
+        sum =+ array[a+1] - array[a]
     return sum
 
 def aac(array):
